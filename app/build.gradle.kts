@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.nonienpai.hyperglass"
-    compileSdk = 36
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.nonienpai.hyperglass"
         minSdk = 31
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
